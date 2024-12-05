@@ -1,0 +1,44 @@
+[
+      {
+        "question": "How do I create an account?",
+        "answer": "To create an account, click on the 'Sign Up' button at the top of the page, fill in the required details, and submit the form. You’ll receive a confirmation email with further instructions."
+      },
+      {
+        "question": "How do I apply for a job?",
+        "answer": "Once logged in, browse through the available jobs, click on a job listing, and select 'Apply Now' to submit your application. Ensure your profile is complete for a higher chance of selection."
+      },
+      {
+        "question": "Can I save jobs to view later?",
+        "answer": "Yes, you can save jobs by clicking on the 'Save Job' button on each job listing. You can access saved jobs in your profile under 'Saved Jobs'."
+      },
+      {
+        "question": "How do I edit my profile?",
+        "answer": "To edit your profile, log in and navigate to the 'My Profile' section. Click 'Edit Profile' to update your personal information, resume, and other details."
+      },
+      {
+        "question": "How do I reset my password?",
+        "answer": "To reset your password, click on 'Forgot Password' on the login page, enter your registered email, and follow the instructions sent to your email to reset your password."
+      },
+      {
+        "question": "Is there a fee to apply for jobs?",
+        "answer": "No, applying for jobs is completely free. There are no charges for job seekers to use our platform."
+      },
+      {
+        "question": "How do I contact the employer?",
+        "answer": "If the employer has enabled messaging, you can contact them through the 'Message Employer' option on the job listing. Otherwise, wait for the employer to reach out after you apply."
+      },
+      {
+        "question": "How do I delete my account?",
+        "answer": "To delete your account, go to 'Account Settings' in your profile and select 'Delete Account'. Please note that this action is irreversible."
+      },
+      {
+        "question": "How can I track the status of my application?",
+        "answer": "You can track the status of your applications in the 'My Applications' section, where you’ll see updates like 'Submitted', 'Under Review', or 'Closed'."
+      },
+      {
+        "question": "Can I upload multiple resumes?",
+        "answer": "Yes, you can upload multiple resumes under your profile. When applying for a job, you can choose which resume to submit."
+      }
+]
+  
+  

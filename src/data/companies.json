@@ -1,0 +1,42 @@
+[
+    {
+        "name": "accenture",
+        "path": "companies/accenture.png",
+        "id":1
+    },
+    {
+        "name": "amazon",
+        "path": "companies/amazon.png",
+        "id":2
+    },
+    {
+        "name": "deloite",
+        "path": "companies/deloite.png",
+        "id":3
+    },
+    {
+        "name": "google",
+        "path": "companies/google.png",
+        "id": 4
+    },
+    {
+        "name": "microsoft",
+        "path": "companies/microsoft.png",
+        "id":5
+    },
+    {
+        "name": "netflix",
+        "path": "companies/netflix.png",
+        "id":6
+    },
+    {
+        "name": "tcs",
+        "path": "companies/tcs.png",
+        "id":7
+    },
+    {
+        "name": "zomato",
+        "path": "companies/zomato.png",
+        "id":8
+    }
+]
