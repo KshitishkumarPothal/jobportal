@@ -97,7 +97,7 @@ const ApplyJobDrower = ({ user, job, applied = false, fetchJob }) => {
              render={({field}) => (
               <RadioGroup onValueChange = {field.onChange} {...field}>
             <div className="flex items-center space-x-2">
-              <RadioGroupItem value="Intermediate" id="intermediate" />
+               <RadioGroupItem value="Intermediate" id="intermediate" />
               <Label htmlFor="intermediate">Intermediate</Label>
             </div>
             <div className="flex items-center space-x-2">
